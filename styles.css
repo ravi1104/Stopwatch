@@ -27,7 +27,6 @@
   display: flex;
   border-radius: 10%;
   border: 4px double rgb(126, 126, 132);
-  background-color: #bbb4b4;
   justify-content: center;
   align-items: center;
   flex-direction: column;
