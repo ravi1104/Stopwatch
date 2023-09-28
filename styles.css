@@ -1,11 +1,17 @@
+body{
+  background-image: url("images/time.jpg");
+
+}
+
 /* Center align the text in the heading element */
+
 #heading {
   text-align: center;
 }
 /* Style for the heading h1 element */
 #heading h1 {
-  font-size: 36px; /* Adjust the font size to your preference */
-  color: #333; /* Text color */
+  font-size: 49px; /* Adjust the font size to your preference */
+  color: white; /* Text color */
   text-transform: uppercase; /* Uppercase text */
   text-align: center; /* Center align the text */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Add a subtle text shadow */
@@ -26,8 +32,8 @@
 .clock-box {
   display: flex;
   border-radius: 10%;
+  background-color: white;
   border: 4px double rgb(126, 126, 132);
-  background-color: #bbb4b4;
   justify-content: center;
   align-items: center;
   flex-direction: column;
